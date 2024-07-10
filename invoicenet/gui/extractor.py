@@ -20,6 +20,7 @@
 
 import os
 import io
+import re
 import subprocess
 import tempfile
 import PyPDF2

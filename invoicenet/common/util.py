@@ -31,7 +31,7 @@ import os
 from PIL import Image
 from googleapiclient.discovery import build
 import base64
-from google.cloud import vision
+# from google.cloud import vision
 
 ## API keys for google ocr
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="google_api_keys.json"
